@@ -285,8 +285,11 @@ iframe {
  margin-top: 5px;
 }
 
-.maps img:hover {
- background-color: #3eb489;
+.maps i:hover {
+color: #fff;
+}
+.maps i {
+color: #000;
 }
 
 .hookah {
